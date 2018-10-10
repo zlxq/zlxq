@@ -6,6 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>framework</module>
-  	<module>web-modules</module>
+  	<module>web</module>
   </modules>
 </project>
