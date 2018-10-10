@@ -1,4 +1,4 @@
-package org.framework;
+package com.framework;
 
 /**
  * Hello world!
