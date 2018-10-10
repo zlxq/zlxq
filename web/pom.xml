@@ -6,7 +6,7 @@
     <artifactId>zlxq</artifactId>
     <version>0.0.0.1</version>
   </parent>
-  <artifactId>web-modules</artifactId>
+  <artifactId>web</artifactId>
   <packaging>pom</packaging>
   <modules>
     <module>web-www</module>
